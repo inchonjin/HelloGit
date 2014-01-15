@@ -32,6 +32,8 @@ namespace HelloWithStructureMap
     {
         private readonly IGreeter greeter;
         private readonly IOutputDisplay outputDisplay;
+         
+
 
         public AppEngine(IGreeter greeter, IOutputDisplay outputDisplay)
         {
