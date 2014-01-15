@@ -1,0 +1,12 @@
+F:\MangoSoft\feature-FixdaemonErrMsg\HelloWithStructureMap\HelloWithStructureMap\bin\Debug\HelloWithStructureMap.exe.config
+F:\MangoSoft\feature-FixdaemonErrMsg\HelloWithStructureMap\HelloWithStructureMap\bin\Debug\HelloWithStructureMap.exe
+F:\MangoSoft\feature-FixdaemonErrMsg\HelloWithStructureMap\HelloWithStructureMap\bin\Debug\HelloWithStructureMap.pdb
+F:\MangoSoft\feature-FixdaemonErrMsg\HelloWithStructureMap\HelloWithStructureMap\bin\Debug\StructureMap.dll
+F:\MangoSoft\feature-FixdaemonErrMsg\HelloWithStructureMap\HelloWithStructureMap\bin\Debug\StructureMap.pdb
+F:\MangoSoft\feature-FixdaemonErrMsg\HelloWithStructureMap\HelloWithStructureMap\bin\Debug\StructureMap.xml
+F:\MangoSoft\feature-FixdaemonErrMsg\HelloWithStructureMap\HelloWithStructureMap\obj\Debug\HelloWithStructureMap.csprojResolveAssemblyReference.cache
+F:\MangoSoft\feature-FixdaemonErrMsg\HelloWithStructureMap\HelloWithStructureMap\obj\Debug\HelloWithStructureMap.exe
+F:\MangoSoft\feature-FixdaemonErrMsg\HelloWithStructureMap\HelloWithStructureMap\obj\Debug\HelloWithStructureMap.pdb
+F:\GitSources\HelloGit\HelloWithStructureMap\bin\Debug\HelloWithStructureMap.exe.config
+F:\GitSources\HelloGit\HelloWithStructureMap\obj\Debug\HelloWithStructureMap.exe
+F:\GitSources\HelloGit\HelloWithStructureMap\obj\Debug\HelloWithStructureMap.pdb
