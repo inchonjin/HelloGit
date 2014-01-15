@@ -12,6 +12,8 @@ namespace HelloWithStructureMap
 
             IAppEngine appEngine = container.GetInstance<IAppEngine>();
             appEngine.Run();
+
+
             Console.ReadKey();
         }
 
