@@ -13,7 +13,7 @@ namespace HelloWithStructureMap
             IAppEngine appEngine = container.GetInstance<IAppEngine>();
             appEngine.Run();
 
-
+            //test
             Console.ReadKey();
         }
 
